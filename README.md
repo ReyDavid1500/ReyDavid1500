@@ -6,4 +6,4 @@
 
 💡 I’m especially interested in scalable Frontend and backend architectures, Domain-Driven Design (DDD), event-driven systems, and AI-supported development workflows.
 
-📚 Outside of coding, I enjoy learning languages (currently German 🇩🇪) hiking and grilling.
+📚 Outside of coding, I enjoy learning languages (currently German 🇨🇭) hiking and grilling.
