@@ -1,7 +1,40 @@
-👨🏻‍💻 I’m a Software Engineer with experience in modern web development, currently focused on backend engineering using NestJS within a microservices monorepo architecture. My background spans building scalable and maintainable applications with TypeScript, React, and Node.js, and I take pride in writing clean, testable, and reliable code supported by Jest and robust CI/CD pipelines.
+# David Guzmán
 
-🔧 Technologies & Tools: TypeScript, Node.js, NestJS, Express, React, TailwindCSS, Next.js, REST APIs, SQLServer, MongoDB, Microservices, Event-Driven Architecture, Jest, GitHub Actions, Git, ESLint, Prettier, Agile, Scrum.
+Full-stack engineer building production-grade web applications with TypeScript, 
+React, and Node.js — based in Winterthur, Switzerland 🇨🇭
 
-💡 I’m especially interested in scalable Frontend and backend architectures, Domain-Driven Design (DDD), event-driven systems, and AI-supported development workflows.
+3 years shipping end-to-end features in fintech and enterprise environments 
+where reliability is non-negotiable. 
 
-📚 Outside of coding, I enjoy learning languages (currently German 🇨🇭) hiking and grilling.
+---
+
+## What I Build
+
+**Frontend** — React · TypeScript · TanStack Query · Zustand · Tailwind CSS · Styled Components 
+**Backend** — Node.js · NestJS · REST APIs · Event-Driven Architecture  
+**Data** — SQL Server · MongoDB · Prisma ORM  
+**Infrastructure** — Docker · GitHub Actions · CI/CD · Jest (90%+ coverage)  
+**AI** — Anthropic API · Cursor
+
+---
+
+## Selected Work
+
+**[FROMM Chile](https://fromm-pack.cl)** — 
+Full-stack B2B platform for Swiss industrial manufacturer · 
+Replaced legacy WordPress · +30% client sales · Sole developer
+
+---
+
+## Currently
+
+→ Building AI-integrated web applications  
+→ Learning Python + FastAPI for backend AI systems  
+→ Improving German (A2 → B1) 🇩🇪  
+→ Open to mid-level software engineering roles in Switzerland
+
+---
+
+**[Portfolio](https://portfolio-ev0.pages.dev)** · 
+**[LinkedIn](https://linkedin.com/in/rdguzmanp)** · 
+**[Email](mailto:davidguzman1500@gmail.com)**
