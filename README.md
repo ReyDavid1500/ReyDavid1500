@@ -3,7 +3,7 @@
 Full-stack engineer building production-grade web applications with TypeScript, 
 React, and Node.js — based in Winterthur, Switzerland 🇨🇭
 
-3 years shipping end-to-end features in fintech and enterprise environments 
+2+ years shipping end-to-end features in fintech and enterprise environments 
 where reliability is non-negotiable. 
 
 ---
@@ -35,6 +35,6 @@ Replaced legacy WordPress · +30% client sales · Sole developer
 
 ---
 
-**[Portfolio](https://portfolio-ev0.pages.dev)** · 
+**[Portfolio](https://dguzmanportfolio.com/)** · 
 **[LinkedIn](https://linkedin.com/in/rdguzmanp)** · 
 **[Email](mailto:davidguzman1500@gmail.com)**
