@@ -1,40 +1,31 @@
 # David Guzmán
 
-Full-stack engineer building production-grade web applications with TypeScript, 
-React, and Node.js — based in Winterthur, Switzerland 🇨🇭
+Forward Deployed AI Engineer — TypeScript · Python · Anthropic API · Industrial B2B  
+Based in Winterthur, Switzerland 🇨🇭 · B Permit holder
 
-2+ years shipping end-to-end features in fintech and enterprise environments 
-where reliability is non-negotiable. 
-
----
+5 years embedded in manufacturing, oil & gas, and industrial distribution. Now building and deploying AI systems that automate the workflows I used to run manually.
 
 ## What I Build
 
-**Frontend** — React · TypeScript · TanStack Query · Zustand · Tailwind CSS · Styled Components 
-**Backend** — Node.js · NestJS · REST APIs · Event-Driven Architecture  
-**Data** — SQL Server · MongoDB · Prisma ORM  
-**Infrastructure** — Docker · GitHub Actions · CI/CD · Jest (90%+ coverage)  
-**AI** — Anthropic API · Cursor
+**AI & Agents** — Anthropic Claude API · Tool Calling · RAG Pipelines · Agentic Loops · LangGraph · Vercel AI SDK  
+**Backend** — Node.js · NestJS · FastAPI (Python) · REST APIs · Event-Driven Architecture  
+**Frontend** — React · TypeScript · Next.js · TanStack Query · Zustand · Tailwind CSS  
+**Data** — PostgreSQL · SQL Server · MongoDB · ChromaDB (vector)  
+**Tools** — Docker · GitHub Actions · CI/CD · Jest · Claude Code · Cursor
 
----
+## Background
 
-## Selected Work
-
-**[FROMM Chile](https://fromm-pack.cl)** — 
-Full-stack B2B platform for Swiss industrial manufacturer · 
-Replaced legacy WordPress · +30% client sales · Sole developer
-
----
+- 5 years · Technical Sales Engineer · Oil & gas, mining, manufacturing, distribution
+- Production software shipped for fintech (Galgo) and enterprise (Entel, FROMM)
+- Materials Engineer · Simón Bolívar University, Venezuela
 
 ## Currently
 
-→ Building AI-integrated web applications  
-→ Learning Python + FastAPI for backend AI systems  
+→ Targeting Forward Deployed Engineer roles in Switzerland (Zürich / remote)  
+→ Deepening Python + LangGraph for agentic systems  
 → Improving German (A2 → B1) 🇩🇪  
-→ Open to mid-level software engineering roles in Switzerland
+→ Available immediately · No sponsorship needed
 
 ---
 
-**[Portfolio](https://dguzmanportfolio.com/)** · 
-**[LinkedIn](https://linkedin.com/in/rdguzmanp)** · 
-**[Email](mailto:davidguzman1500@gmail.com)**
+**[LinkedIn](https://linkedin.com/in/rdguzmanp)** · **[Portfolio](https://dguzmanportfolio.com/)** · **[Email](mailto:davidguzman1500@gmail.com)**
